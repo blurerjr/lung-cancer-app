@@ -1,1 +1,10 @@
-streamlit>=1.26.0
+streamlit
+torch==2.3.1+cpu
+torchvision==0.18.1+cpu
+opencv-python-headless==4.10.0.84
+scikit-image==0.24.0
+numpy==1.26.4
+matplotlib==3.9.0
+Pillow
+requests==2.32.3
+ 
